@@ -1,0 +1,21 @@
+#map {
+    height: 900px;
+    width: 100%;
+}
+
+.legend {
+    background: white;
+    line-height: 1.5em;
+    padding: 6px 8px;
+    font: 12px/14px Arial, Helvetica, sans-serif;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+
+#branchFilter {
+    background: white;
+    font: 12px/14px Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
